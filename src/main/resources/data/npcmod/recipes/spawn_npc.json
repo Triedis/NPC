@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "POR",
+    "rCr",
+    "pLp"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "C": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "L": {
+      "item": "minecraft:iron_leggings"
+    },
+    "r": {
+      "item": "minecraft:repeater"
+    },
+    "p": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "npcmod:spawn_npc"
+  }
+}

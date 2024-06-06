@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  R",
+    "NGP",
+    "nIn"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "G": {
+      "item": "minecraft:yellow_stained_glass_pane"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "n": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "npcmod:npc_controller"
+  }
+}
